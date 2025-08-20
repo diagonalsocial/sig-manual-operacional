@@ -24,6 +24,7 @@ jobs:
 
       - name: Build MkDocs site
         run: |
+          pip install mkdocs-glightbox
           mkdocs build
 
       - name: Setup Pages
