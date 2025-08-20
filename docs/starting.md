@@ -10,39 +10,38 @@
     delas, como por exemplo, criar, visualizar, excluir e atualizar.
 
 
-* Clique no menu `Segurança`, acesse `Perfis de acesso` e siga os passos: 
+Clique no menu `Segurança`, acesse `Perfis de acesso` e siga os passos: 
 
-=== "Passo 1"
+1. Clique em "Adicionar":
+
+2. Defina um nome para o perfil de acesso.
+
+3. Selecione as permissões que este perfil terá em cada tela.
+
+
+=== "Passo 1" 
 
     <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
+     ![Image title](images/profile.png){ width="900" }
     </figure>
-
-    * Clique em "Adicionar".
 
 === "Passo 2"
 
     <figure markdown="span">
-     ![Image title](images/profile2.png){ width="300" }
+     ![Image title](images/profile2.png){ width="900" }
     </figure>
-
-    *  Defina um nome para o perfil que está criando..
 
 === "Passo 3"
 
     <figure markdown="span">
-     ![Image title](images/profile3.png){ width="600" }
+     ![Image title](images/profile3.png){ width="900" }
     </figure>
 
-    * Selecione todas as permissões que este perfil terá em cada tela.
-    
-    <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
 
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou um perfil de acesso.
+* Clique em "Salvar" ou "Salvar e voltar" no rodapé da página.
+
+!!! Success "Sucesso"
+    Pronto! Você criou um perfil de acesso.
 
 
 <div class="grid" markdown>
@@ -59,22 +58,26 @@ Para mais informações, acesse:
     Os níveis irão garantir quais os dados que cada usuário irá enxergar dentro  
     de cada tela.
 
-* Clique no menu `Segurança`, acesse `Níveis organizacionais` e siga os passos:
+Clique no menu `Segurança`, acesse `Níveis organizacionais` e siga os passos:
+
+1. Clique em "Adicionar".
+
+2. Defina um nome para o nível que está criando. (Campo descrição é opcional).
+
+3. No campo "Nível superior", selecione se o nível que está criando pertence a alguma hierarquia.
 
 
 === "Passo 1"
 
     <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
+     ![Image title](images/orglvl.png){ width="900" }
     </figure>
-
-    * Clique em "Adicionar".
 
 
 === "Passo 2"
 
     <figure markdown="span">
-     ![Image title](images/orglvl1.png){ width="600" }
+     ![Image title](images/orglvl1.png){ width="900" }
     </figure>
 
     * Defina um nome para o nível que está criando.
@@ -83,27 +86,13 @@ Para mais informações, acesse:
 === "Passo 3"
 
     <figure markdown="span">
-     ![Image title](images/orglvl2.png){ width="300" }
+     ![Image title](images/orglvl2.png){ width="900" }
     </figure>
 
-    * No campo "Nível superior", selecione se o nível que está criando  
-    pertence a alguma hierarquia.
 
-=== "Passo 4"
-
-    <figure markdown="span">
-     ![Image title](images/orglvl3.png){ width="600" }
-    </figure>
-
-    * Clique em "Adicionar" para selecionar os usuários que pertencem aquele nível.
-
-    <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
-
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou um nível organizacional.
+* Clique em "Salvar" ou "Salvar e voltar".
+!!! Success "Sucesso"
+    Pronto! Você criou um nível organizacional.
 
 
 <div class="grid" markdown>
@@ -122,51 +111,51 @@ Para mais informações, acesse:
    Agora que já possuímos os perfis e níveis de acesso definidos na plataforma,  
    podemos cadastrar os primeiros usuários. 
 
-* Clique no menu `Segurança`, acesse `Usuários` e seguia os passos:
+Clique no menu `Segurança`, acesse `Usuários` e seguia os passos:
+
+1. Clique em "Adicionar".
+
+2. Você pode criar um usuário vinculado a um CPF e clicar em `continuar`, ou clicar no botão `Criar sem CPF`.
+
+3. Preencha os campos de nome do usuário, e o email de login dele. (Número de telefone opcional)
+
+4. Selecione seu perfil de acesso e nível organizacional.
+
 
 === "Passo 1"
 
     <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
+     ![Image title](images/user.png){ width="900" }
     </figure>
 
-    * Clique em "Adicionar".
 
 === "Passo 2"
 
     <figure markdown="span">
-     ![Image title](images/user1.png){ width="600" }
+     ![Image title](images/user1.png){ width="900" }
     </figure>
 
-    * Você pode criar um usuário vinculado a um CPF e clicar em "Continuar".
-    * Ou Selecione a opção "Criar sem CPF" que você será direcionado ao  
-    cadastro e usuários.
 
 === "Passo 3"
 
     <figure markdown="span">
-     ![Image title](images/user2.png){ width="600" }
+     ![Image title](images/user3.png){ width="900" }
     </figure>
 
-    * Insira o nome do usuário
-    * Insira o e-mail (será utilizado para o login do usuário)
-    * Campo telefone(opcional)
 
 === "Passo 4"
 
     <figure markdown="span">
-     ![Image title](images/user3.png){ width="600" }
+     ![Image title](images/user4.png){ width="900" }
     </figure>
 
-    * Selecione o perfil de acesso do usuário e o seu nivel organizacional
+* Você pode clicar no switch `gerar senha automaticamente` para desabilitar a opção e  
+manualmente inserir uma senha para o usuário. 
 
-        <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
+* Clique em "Salvar" ou "Salvar e voltar" no rodapé da página.
 
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou um usuário.
+!!! Success "Sucesso"
+    Pronto! Você criou um usuário.
 
 
 <div class="grid" markdown>
@@ -186,51 +175,49 @@ Para mais informações, acesse:
 
 ### Configurando tipos de trabalho
 
-* Clique no menu `Configurações`, acesse `Tipo de trabalho` e siga os passos:
+Clique no menu `Configurações`, acesse `Tipo de trabalho` e siga os passos:
+
+1. Clique em "Adicionar".
+
+2. Insira o nome do tipo de trabalho. (Campo descrição opcional).
+
+3. Configure os **campos nativos** do tipo de trabalho:
+    Você pode escolher se eles serão exibidos, se são obrigatórios e até renomeá-los!
+4. Adicione os **campos personalizados**. 
 
 === "Passo 1"
 
     <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
+     ![Image title](images/type1.png){ width="900" }
     </figure>
 
-    * Clique em "Adicionar".
 
 === "Passo 2"
 
     <figure markdown="span">
-     ![Image title](images/type.png){ width="300" }
+     ![Image title](images/type.png){ width="900" }
     </figure>
     
-    * Preencha o nome do tipo de trabalho.
-    * Campo descrição(opcional)
-
 
 === "Passo 3"
 
     <figure markdown="span">
-     ![Image title](images/type2.png){ width="600" }
+     ![Image title](images/type2.png){ width="900" }
     </figure>
 
-    * Configure os **campos nativos** do tipo de trabalho.
-    * Você pode escolher se eles serão exibidos ou não, 
-    se são obrigatórios e inclusive renomeá-los. 
 
 === "Passo 4"
 
     <figure markdown="span">
-     ![Image title](images/type3.png){ width="600" }
+     ![Image title](images/type3.png){ width="900" }
     </figure>
 
-    * Adicione os campos personalizados do tipo de trabalho.
 
-    <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
+* Clique em "Salvar" ou "Salvar e voltar".
+!!! Success "Sucesso"
+    Pronto! Você criou um Tipo de trabalho.
 
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou um Tipo de trabalho.
+* Veja as informações sobre `parâmetros de negócio`, `produtos` ou `padrões` no caminho abaixo:
 
 <div class="grid" markdown>
 Para mais informações, acesse:
