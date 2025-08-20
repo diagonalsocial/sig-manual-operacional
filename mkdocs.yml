@@ -28,6 +28,7 @@ theme:
     - content.tooltips
 plugins:
   - search
+  - glightbox
 
 markdown_extensions: 
   - attr_list
