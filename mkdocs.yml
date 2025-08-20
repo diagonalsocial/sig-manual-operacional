@@ -1,0 +1,96 @@
+site_name: Manual Operacional da Plataforma
+site_url: https://mydomain.org/mysite
+
+theme:
+  name: material
+  palette:
+      - scheme: default
+        toggle:
+          icon: material/brightness-7 
+          name: Switch to dark mode
+      - scheme: slate
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+  
+  logo: images/book-open-line.png
+  font: 
+    text: Roboto
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.path
+    - navigation.indexes
+    - content.tabs.link
+    - content.tooltips
+plugins:
+  - glightbox
+  - search
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      title: Tópicos
+
+nav:
+  - Início: index.md
+  - Monitoramento: dashboards.md
+  - Trabalho: work_items.md
+  - Planejamento:
+    - planejamento/index.md 
+    - Distribuição : distribuition.md
+    - Ordem de Serviço: service_orders.md
+    - EAP: eap.md
+    - Projetos: project.md
+    - Cronograma: timeline.md
+  - Geomapa: geomap.md
+  - Atendimento: customer_support.md
+  - Territórios: 
+    - territories/index.md
+    - Pessoas: people.md
+    - Famílias: families.md
+    - Áreas Territorias: regions.md
+    - Empreendimentos: enterprises.md
+    - Condomínios: condominiuns.md
+    - Endereços: addresses.md
+  - Segurança: 
+    - security/index.md
+    - Usuários: users.md
+    - Equipes: teams.md
+    - Perfis de acesso: access_levels.md
+    - Níveis Organizacionais: organizational_levels.md
+    - Auditoria: audit.md
+  - Configurações: 
+    - settings/index.md
+    - Configurações da conta: account_settings.md
+    - Definições do contrato: contract_definitions.md
+    - Produtos do contrato: contract_products.md
+    - Níveis de trabalho: work_levels.md
+    - Tipo de trabalho: work_item_types.md
+    - Tipo de Plano: plan_types.md
+    - Campos personalizados: custom_fields.md
+    - Parâmetros de negócio: business_params.md 
+    - Template de notificações: notification_templates.md
+    - Notificações customizadas: notification_customs.md
+    - Funções de trabalho: job_functions.md
+    - Modelos de medição: measurement_templates.md
+  - Tabelas: tables.md
+  - Medições: measurement.md 
+  - Relatórios: reports.md
