@@ -1,6 +1,6 @@
 # Configurações iniciais
 
-!!! Info
+!!! Info "Informação"
     Nesse passo a passo de configuração, apenas as instruções de implantação do fluxo de trabalho serão passadas, para saber detalhadamente de cada menu, acesse os links abaixo de cada passo.
 
 ## Perfis de acesso
