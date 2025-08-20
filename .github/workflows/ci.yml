@@ -23,9 +23,9 @@ jobs:
           pip install mkdocs mkdocs-material
 
       - name: Build MkDocs site
-        run: |
-          pip install mcdocks-glightbox
+        run: |          
           mkdocs build
+          pip install mcdocks-glightbox
           
 
       - name: Setup Pages
