@@ -27,7 +27,6 @@ theme:
     - content.tabs.link
     - content.tooltips
 plugins:
-  - glightbox
   - search
 
 markdown_extensions: 
