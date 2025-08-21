@@ -484,23 +484,28 @@ Para mais informações, acesse:
 
 ### Áreas territoriais
 
-* No menu `Territórios`, acesse `Áreas territoriais` e siga os passos:
+No menu `Territórios`, acesse `Áreas territoriais` e siga os passos:
 
+1. Clique em "Adicionar"
+
+2. Insira o nome da Área territorial.
+
+3. Selecione entre Área ou [Regional]("conjunto de áreas") e a abrangência.
+
+4. Para adicionar um nível organizacional a área, desativo o switch "herdar níveis abaixo".
 === "Passo 1"
 
     <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
+     ![Image title](images/area1.png){ width="900" }
     </figure>
     
-    * Clique em "Adicionar"
 
 === "Passo 2"
     
     <figure markdown="span">
      ![Image title](images/enterprise.png){ width="900" }
     </figure>
-    
-    * Insira o nome da Área territorial
+
 
 === "Passo 3"
 
@@ -508,8 +513,7 @@ Para mais informações, acesse:
      ![Image title](images/enterprise2.png){ width="900" }
     </figure>
     
-    * Selecione o Tipo de área entre Área ou [Regional]("conjunto de áreas").
-    * Selecione a abrangência entre Estado, município ou regiões.
+
 
 === "Passo 4"
 
@@ -517,15 +521,11 @@ Para mais informações, acesse:
      ![Image title](images/enterprise3.png){ width="900" }
     </figure>
    
-    * Selecione um nível organizacional.
+* Você pode clicar em "Adicionar" para adicionar áreas territoriais abaixo para indicar um conjunto de áreas que fazem parte daquela regional.
 
-    <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
-
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou uma Área territorial.
+* Clique em "Salvar" ou "Salvar e voltar".
+!!! Success "Sucesso"
+     Pronto! Você criou uma Área territorial.
 
 
 
@@ -539,15 +539,20 @@ Para mais informações, acesse:
 
 ### Empreendimentos
 
-* No menu `Territórios`, acesse `Empreendimentos` e siga os passos:
+No menu `Territórios`, acesse `Empreendimentos` e siga os passos:
+
+1. Clique em "Adicionar".
+
+2. Insira o nome do Empreendimento.(Este é o único campo obrigatório, preencha o restante das informações de acordo com os dados do empreendimento que está sendo cadastrado).
+
+3. Insira seu nível organizacional.
 
 === "Passo 1"
 
     <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
+     ![Image title](images/region.png){ width="900" }
     </figure>
     
-    * Clique em "Adicionar"
 
 === "Passo 2"
 
@@ -555,8 +560,6 @@ Para mais informações, acesse:
      ![Image title](images/region1.png){ width="900" }
     </figure>
 
-    * Insira o nome do Empreendimento. 
-    * Neste menu, apenas o nome é obrigatório.
 
 === "Passo 3"
 
@@ -564,16 +567,11 @@ Para mais informações, acesse:
      ![Image title](images/region2.png){ width="900" }
     </figure>
 
-    * Preencha os demais campos de acordo com as informações  
-    do empreendimento que está cadastrando e insira seu **nível organizacional**.
+* Você pode clicar em "Adicionar" para indciar os [condomínios](condominiuns.md) que fazem parte daquele empreendimento.
 
-    <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
-
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou um Empreendimento.
+* Clique em "Salvar" ou "Salvar e voltar".
+!!! Success "Sucesso"
+    Pronto! Você criou um Empreendimento.
 
 
 <div class="grid" markdown>
@@ -589,53 +587,74 @@ Para mais informações, acesse:
     Chegou o momento de criar o planejamento de trabalho, onde vamos inserir todo  
     o escopo de itens que compõem o fluxo de trabalho.
 
+Os itens do planejamento são divididos entre os 5 níveis:
+
+Etapa :octicons-arrow-right-24: Macroprocesso :octicons-arrow-right-24: Processo :octicons-arrow-right-24: Atividade :octicons-arrow-right-24: Tarefa
+
+Os níveis funcionam como uma *hierarquia*, sendo a *Etapa* o nível mais alto de planejamento e a *Tarefa* o mais baixo.  
+
+
+A *Tarefa* é o que os usuários vão usar como registro de trabalho posteriormente no menu `trabalho`.
+
+Ex:
+
+<figure markdown="span">
+ ![Image title](images/hierarchy.png){ width="900" }
+</figure>
+
 ### Criando Projetos
 
-* Clique no menu `Planejamento`, acesse `Projetos` e siga o passo a passo:
+Clique no menu `Planejamento`, acesse `Projetos`.
+
+Clique em "Adicionar".
+
+<figure markdown="span">
+ ![Image title](images/project.png){ width="900" }
+</figure>
+
+Você será direcionado para a aba de `informações` do Projeto. Siga os passos:
+
+<figure markdown="span">
+ ![Image title](images/info.png){ width="300" }
+</figure>
+
+1. Preencha os campos "Nome", "Contrato", "Data início" e "Data término" do projeto.
+
+2. Clique no switch `modelo`para habilitar o plano como um modelo e selecione seu nível organizacional.
+
+
 
 === "Passo 1"
-
-    <figure markdown="span">
-     ![Image title](images/add.png){ width="300" }
-    </figure>
-    
-    * Clique em "Adicionar"
-
-=== "Passo 2"
-    
-    Você será direcionado para a aba de `informações` do projeto.
 
     <figure markdown="span">
      ![Image title](images/plans.png){ width="900" }
     </figure>
 
-    * Preencha os campos de Nome, contrato, data início e data término do projeto.
 
-=== "Passo 3" 
+
+=== "Passo 2" 
 
     <figure markdown="span">
      ![Image title](images/plans2.png){ width="900" }
     </figure>
 
-    * Clique na opção "modelo" para habiltiar o plano como um modelo.
-    * Selecione o nível organizacional.
-    * Clique em "Salvar".
+* Clique em "Salvar".
 
-Agora, com as informações do `Projeto` salvas, você será redirecionado para  
-aba `Planejador`, onde iremos criar os Itens do plano. Sendo que os itens de  
-nível "Tarefa" serão os que aparecerão no menu trabalho para preenchimento  
-dos usuários.
- Siga os passos:
+
+Agora, com as informações do `Projeto` salvas, você será redirecionado para a 
+aba `Planejador`, onde iremos criar os Itens do plano. Siga os passos:
+
+1. Clique em "Adicionar".
+
+2. Insira o nome do item, selecione o seu nível e clique em "Salvar e fechar".
+
 
 === "Passo 1"
-
-    Na aba `planejador`:
 
     <figure markdown="span">
      ![Image title](images/plans3.png){ width="900" }
     </figure>
     
-    * Clique em "Adicionar"
 
 === "Passo 2"
 
@@ -643,55 +662,127 @@ dos usuários.
      ![Image title](images/plans4.png){ width="900" }
     </figure>
 
-    * Insira o nome do item.
-    * Selecione seu **nível** entre Etapa, Macroprocesso, Processo, Ativdade e Tarefa.
-    * Clique em "Salvar e fechar"
 
-=== "Passo 3"
 
-    O item deve ficar desta forma:
+O item deve ficar desta forma:
 
-    <figure markdown="span">
-     ![Image title](images/plans5.png){ width="900" }
-    </figure>
+<figure markdown="span">
+![Image title](images/plans5.png){ width="900" }
+</figure>
 
-    * Neste exemplo, um item nível **Tarefa** foi criado.
+* Neste exemplo, um item nível **Tarefa** foi criado.
     
-    * Se um item nível **Atividade** for criado, esta tarefa agora
-    pode ser vinculada aquela atividade. Como no exemplo:
+* Se um item nível **Atividade** for criado, esta tarefa agora
+    pode ser vinculada aquela atividade.(Selecionando a atividade no campo "item superior" na tarefa ou clicando em cima da tarefa e arrastando-a para dentro da atividade) Como no exemplo:
 
-    <figure markdown="span">
-     ![Image title](images/plans6.png){ width="900" }
-    </figure>
+<figure markdown="span">
+![Image title](images/plans6.png){ width="900" }
+</figure>
 
-=== "Passo 4"
+* Por serem o nível de registro de trabalho, os itens de nível **tarefa** requerem um tipo de trabalho.
+* Se o contrato for medido por **entrega de produtos**, adicione um produto aos itens de nível **atividade**.
 
-    Monte o planejamento da forma que se encaixe melhor no seu fluxo de trabalho.
 
-    <figure markdown="span">
-     ![Image title](images/save.png){ width="300" }
-    </figure>
 
-    * Clique em "Salvar" ou "Salvar e voltar".
-    !!! Success "Sucesso"
-        Pronto! Você criou um Projeto.
 
-!!! Warning "Atenção"
-    Se o contrato tem como base de medição "Entrega de produtos", deve-se  
-    adicionar um produto quando o nível do item for "Atividade"  
-    Os itens de nível "Tarefa" são obrigatórios selecionar um "Tipo de trabalho".
+* Clique em "Salvar" ou "Salvar e voltar" no rodapé da página.
 
 
 
 
 
+!!! Success "Sucesso"
+    Pronto! Você criou um Projeto.
+
+
+<div class="grid" markdown>
+Para mais informações, acesse:
+[:octicons-arrow-right-24: Projetos](project.md) 
+{ .card }   
+</div>
 
 
 ### Criando Ordem de serviço
 
+        Nesta etapa, iremos vincular os planos cadastrados para um território  
+        específico onde ele será executado.
 
+No menu `planejamento`, acesse `ordem de serviço` e siga os passos:
+
+1. Clique em "Adicionar".
+
+2. Insira um nome para a Ordem de serviço e selecione o contrato qual ela faz parte.  
+   Não esqueça das datas de início e término!
+
+3. Selecione o plano modelo de atividades.
+
+4. Após selecionar o contrato, os campos para inserir **produtos** e/ou **horás técnicas** serão disponibilizados.
+
+=== "Passo 1"
+
+    <figure markdown="span">
+     ![Image title](images/service1.png){ width="900" }
+    </figure>
+
+=== "Passo 2"
+
+    <figure markdown="span">
+     ![Image title](images/service2.png){ width="900" }
+    </figure>
+
+=== "Passo 3"
+
+    <figure markdown="span">
+     ![Image title](images/service3.png){ width="900" }
+    </figure>
+
+=== "Passo 4"
+
+    <figure markdown="span">
+     ![Image title](images/service4.png){ width="900" }
+    </figure>
+
+Para medir os produtos clique em "Adicionar" e siga os passos:
+
+1. Selecione o tipo de território entre Área ou Empreendimento e selecione o empreendimento previamente cadastrado.
+
+2. Selecione o produto que será executado na ordem de serviço, a quantidade minima e máxima dele.
+
+=== "Passos 1"
+
+    <figure markdown="span">
+     ![Image title](images/service5.png){ width="900" }
+    </figure>
+
+=== "Passos 2"
+
+
+    <figure markdown="span">
+     ![Image title](images/service6.png){ width="900" }
+    </figure>
+
+* Clique em "Salvar e fechar".
+
+!!! Success "Sucesso"
+    Pronto! Você criou uma ordem de serviço.
+
+!!! Failure " ¯\_(ツ)_/¯" 
+    Ainda não desenvolvemos a medição por hora técnica, logo será disponibilziado!
+
+
+<div class="grid" markdown>
+Para mais informações, acesse:
+[:octicons-arrow-right-24: Ordem de serviço](service_orders.md) 
+{ .card }   
+</div>
 
 ### Criando a Distribuição
 
+        Agora que já temos um mano para ser executado e uma ordem de serviço que  
+        indique onde ele será executado, basta criar a distribuíção, onde iremos  
+        definir os usuários ou equipes que irão realizar as tarefas.
+
+!!! info
+    Em desenvolvimento.
 
 
