@@ -109,7 +109,7 @@ Para mais informações, acesse:
    Agora que já possuímos os perfis e níveis de acesso definidos na plataforma,  
    podemos cadastrar os primeiros usuários. 
 
-Clique no menu `Segurança`, acesse `Usuários` e seguia os passos:
+Clique no menu `Segurança`, acesse `Usuários` e siga os passos:
 
 1. Clique em "Adicionar".
 
