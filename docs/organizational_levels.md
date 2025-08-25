@@ -72,3 +72,23 @@ Repita os passos até que todos os usuários desejados sejam adicionados.
 ---
 
 ## Tipo de Acesso
+
+Quando adicionamos um usuário a um nível organizacional, seja no menu de níveis organizacionais ou no próprio cadastro de usuários, nos deparamos com a especificação do `tipo de acesso` deste usuário. Sendo os 4:
+
+1. Gestão multinível organizacional
+2. Gestão do nível organizacional
+3. Colaboração multinível organizacional
+4. Colaboração do nível organizacional
+
+Os tipos de acesso tem como objetivo regulamentar o que aquele usuário visualizará no menu `trabalho`.
+
+Nas tarefas do menu trabalho, há um campo nativo que indicará os níveis que podem acessar aquela tarefa específica:
+
+<figure markdown="span">
+ ![Image title](images/nvacss.png){ width="300" }
+</figure>
+
+1. Os usuários **Gestão multinível orgnizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **seu nível organizacional ou níveis abaixo**.  
+2. Os usuários **Gestão do nível orgnanizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **o seu nível organizacional**.  
+3. Os usuários **Colaboração multinível organizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **seu nível organizacional ou níveis abaixos se estiverem atribuídos nesta tarefa**.  
+4. Os usuários **Colaboração do nível organizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **seu nível organizacional e se estiverem atribuídos nesta tarefa**.

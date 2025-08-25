@@ -782,7 +782,96 @@ Para mais informações, acesse:
         indique onde ele será executado, basta criar a distribuíção, onde iremos  
         definir os usuários ou equipes que irão realizar as tarefas.
 
-!!! info
-    Em desenvolvimento.
+No menu `planejamento` acesse `Distribuição`.
+
+Clique em "Adicionar".
+
+<figure markdown="span">
+ ![Image title](images/distribuition.png){ width="900" }
+</figure>
+
+Você será direcionado para a aba de `informações` da Distribuição. Siga os passos:
+
+<figure markdown="span">
+ ![Image title](images/info.png){ width="300" }
+</figure>
+
+1. De um nome para a distribuição, selecione as datas de início e término.
+
+2. Selecione a ordem de serviço e quais os produtos daquela ordem serão distribuídos.
+
+3. Selecione os níveis que terão acesso a distribuição.
+
+=== "Passo 1"
+
+    <figure markdown="span">
+    ![Image title](images/distribuition2.png){ width="900" }
+    </figure>
+
+=== "Passo 2"
+
+    <figure markdown="span">
+    ![Image title](images/distribuition3.png){ width="900" }
+    </figure>
+
+=== "Passo 3"
+
+    <figure markdown="span">
+    ![Image title](images/distribuition4.png){ width="900" }
+    </figure>
+
+* Clique em "Salvar".
+
+Você será direcionado para a aba `planejador` da Distribuição, onde poderá realizar as atribuições, ou seja, delegar quais os usuários e/ou equipes responsáveis por aquela tarefa.
+
+Clique no botão "Gerar" para que os itens sejam gerados com base na ordem de serviço e produtos escolhidos anteriormente:
+
+<figure markdown="span">
+![Image title](images/distribuition5.png){ width="900" }
+</figure>
+
+Suas tarefas serão geradas, clique em cima de uma tarefa para abrí-la:
+
+<figure markdown="span">
+![Image title](images/distribuition6.png){ width="900" }
+</figure>
+
+Clique em "Adicionar" no campo de `Usuários ou equipes` e selecione os responsáveis pela tarefa.
+
+<figure markdown="span">
+![Image title](images/distribuition7.png){ width="900" }
+</figure>
+
+* Clique em "Salvar e fechar".
+
+!!! Success "Sucesso"
+    Pronto! Agora você poderá ver essas tarefas no menu trabalho, assim como os usuários atribuídos estarão prontos para registrar aquela tarefa.
+
+<div class="grid" markdown>
+Para mais informações, acesse:
+[:octicons-arrow-right-24: Distribuição](distribuition.md) 
+{ .card }   
+</div>
+
+---
+
+## Menu trabalho
+
+    Agora que as tarefas estão no menu trabalho, você e os usuários já podem  
+    fazer o registro de suas tarefas, basta clicar em cima da tarefa desejada  
+    e preencher de acordo com o que foi configurado!
+
+<figure markdown="span">
+![Image title](images/workitems.png){ width="900" }
+</figure>
+
+
+
+Este é o processo de configuração e planejamento da plataforma. Se seguiu os passos até aqui, estará pronto para utilizar em seu projeto.  
+
+Não deixe de acessar as informações de cada menu para um melhor entendimento de suas funcionalidades. Obrigado ! :smile:
+
+
+
 
 
