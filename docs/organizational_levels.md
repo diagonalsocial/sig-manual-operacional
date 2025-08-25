@@ -11,7 +11,7 @@ Porém, eles funcionam como uma "Hierarquia", veja o exemplo abaixo:
 
 * Neste exemplo, os usuários do Nível 1 e Nível A enxergam cada um seus respectivos dados, enquanto o usuário que está no "Master Area" enxerga os dados do seu nível e dos dois abaixo.
 
-Diversos menus possuem Níveis organizacionais, como as Áreas terriroiais e Empreendimentos, os menus de Planejamento, para que cada usuário visualize somente aquilo que lhe convém.
+Diversos menus possuem Níveis organizacionais, como as Áreas territoriais e Empreendimentos, os menus de Planejamento, para que cada usuário visualize somente aquilo que lhe convém.
 
 ---
 
