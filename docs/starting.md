@@ -873,5 +873,3 @@ Não deixe de acessar as informações de cada menu para um melhor entendimento 
 
 
 
-[`Projeto`](starting.criando-projetos)
-

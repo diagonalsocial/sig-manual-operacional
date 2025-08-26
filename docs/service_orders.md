@@ -42,6 +42,9 @@ No menu `planejamento`, acesse `ordem de serviço` e siga os passos:
      ![Image title](images/service4.png){ width="900" }
     </figure>
 
+
+### Selecionando produtos
+
 Para medir os produtos clique em "Adicionar" e siga os passos:
 
 1. Selecione o tipo de território entre Área ou Empreendimento e selecione o empreendimento previamente cadastrado.
@@ -70,3 +73,21 @@ Para medir os produtos clique em "Adicionar" e siga os passos:
     Ainda não desenvolvemos a medição por hora técnica, logo será disponibilziado!
 
 
+---
+
+## Indicadores do produto
+
+Ao selecionar os produtos na ordem de serviço, seu progresso será calculado com base na quantidade de tarefas que possuem e exibido na própria ordem:
+
+<figure markdown="span">
+![Image title](images/service7.png){ width="900" }
+</figure>
+
+* **Trabalho mínimo previsto:** [Quantidade mínima](service_orders.md/#selecionando-produtos) indicada no produto da ordem de serviço.
+
+
+* **Trabalho máximo previsto:** [Quantidade máxima](service_orders.md/#selecionando-produtos) indicada no produto da ordem de serviço.
+
+* **Trabalho planejado**: Quanditade de tarefas com status `não inciado` ou `em andamento` na distribuição gerada pela ordem de serviço.
+
+* **Trabalho executado:** Percentual com base nas quantidades previstas e tarefas `concluídas` na distribuição.
