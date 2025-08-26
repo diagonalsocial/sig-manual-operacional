@@ -1,6 +1,6 @@
 # Distribuição
 
-## Como criar uma Distribuição e atribuir itens
+## Como criar e atribuir itens
  
 No menu `planejamento` acesse `Distribuição`.
 

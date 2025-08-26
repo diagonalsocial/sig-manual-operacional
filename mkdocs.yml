@@ -23,6 +23,7 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     - navigation.path
+    - navigation.prune
     - navigation.indexes
     - content.tabs.link
     - content.tooltips
@@ -47,6 +48,10 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       title: Tópicos
+  - pymdownx.tabbed:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 
 nav:
   - Início: index.md
