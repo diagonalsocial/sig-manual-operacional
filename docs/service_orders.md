@@ -91,3 +91,7 @@ Ao selecionar os produtos na ordem de serviço, seu progresso será calculado co
 * **Trabalho planejado**: Quanditade de tarefas com status `não inciado` ou `em andamento` na distribuição gerada pela ordem de serviço.
 
 * **Trabalho executado:** Percentual com base nas quantidades previstas e tarefas `concluídas` na distribuição.
+
+
+
+ 

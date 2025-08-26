@@ -92,3 +92,15 @@ Nas tarefas do menu trabalho, há um campo nativo que indicará os níveis que p
 2. Os usuários **Gestão do nível orgnanizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **o seu nível organizacional**.  
 3. Os usuários **Colaboração multinível organizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **seu nível organizacional ou níveis abaixos se estiverem atribuídos nesta tarefa**.  
 4. Os usuários **Colaboração do nível organizacional** terão acesso no menu trabalho a todas as tarefas que possuírem neste campo **seu nível organizacional e se estiverem atribuídos nesta tarefa**.
+
+## Níveis organizacionais com acesso
+
+Vários menus da plataforma possuem um campo de seleção de níveis com acesso:
+
+<figure markdown="span">
+ ![Image title](images/nvacss.png){ width="300" }
+</figure>
+
+No registro de tarefas, nos menus de planejamento, áreas territoriais e empreendimentos, este campo está presente para que o usuário indique a qual gerência aquele item pertence, ou seja, quem deve visualizar. 
+
+Atente-se ao selecionar os níveis corretos! :wink: 

@@ -6,10 +6,17 @@ uma melhor compreensão de como gerir os planos de trabalho, este guia trará
 um esclarecimento sobre cada funcionalidade disponível na plataforma.
 
 <div class="grid" markdown>
+
 Conheça a configuração incial para implantar a plataforma em seu projeto.  
 [:octicons-arrow-right-24: Configurações iniciais](starting.md) 
 { .card }   
+
+Como vincular tarefa a EAP?  
+[:octicons-arrow-right-24: Ver passo a passo](eap.md/#passos) 
+{ .card }
+
 </div>
+
 
 
 !!! Info
