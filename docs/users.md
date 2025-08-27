@@ -42,10 +42,10 @@ Clique no menu `Segurança`, acesse `Usuários` e siga os passos:
      ![Image title](images/user4.png){ width="900" }
     </figure>
 
-*Ao selecionar o `nível organizacional`do usuário, você deverá indicar o [tipo de acesso](organizational_levels.md/#tipo-de-acesso) dele. 
+* Ao selecionar o `nível organizacional`do usuário, você deverá indicar o [tipo de acesso](organizational_levels.md/#tipo-de-acesso) dele. 
 
 * Você pode clicar no switch `gerar senha automaticamente` para desabilitar a opção e  
-manualmente inserir uma senha para o usuário. 
+manualmente inserir uma senha para o usuário. _Caso contrário, uma senha aleatória será enviada para o email cadastrado._ 
 
 * Clique em "Salvar" ou "Salvar e voltar" no rodapé da página.
 

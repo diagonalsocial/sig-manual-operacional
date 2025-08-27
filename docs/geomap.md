@@ -31,13 +31,13 @@ Clique em "Editar" para abrir a opção de editar o Nome e o Tipo de camada.
 
 ### Tipo de camada
 
-Marcador = Camada que cobrirá a área indicada do arquivo:
+Polígono = Camada que cobrirá a área indicada do arquivo:
 
 <figure markdown="span">
 ![Image title](images/geomap3.png){ width="600" }
 </figure>
 
-Polígono = Pontos específicos indicados no arquivo:
+Marcador = Pontos específicos indicados no arquivo:
 
 <figure markdown="span">
 ![Image title](images/geomap4.png){ width="600" }
