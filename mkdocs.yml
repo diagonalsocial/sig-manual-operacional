@@ -70,7 +70,7 @@ nav:
     - territories/index.md
     - Pessoas: people.md
     - Famílias: families.md
-    - Áreas Territorias: regions.md
+    - Áreas Territoriais: regions.md
     - Empreendimentos: enterprises.md
     - Condomínios: condominiuns.md
     - Endereços: addresses.md
@@ -98,3 +98,4 @@ nav:
   - Tabelas: tables.md
   - Medições: measurement.md 
   - Relatórios: reports.md
+  - Configurações inicias: starting.md

@@ -127,7 +127,7 @@ Pronto! Agora ao acessar uma tarefa com o tipo de trabalho que acabou de configu
  O vinculo será feito.
 
 !!! Warning "Atenção"
-    O usuário só poderá ver os planos para vínculo caso o nível organizacional dele esteja no campo [Níveis com acesso](organizational_levels.md/#níveis-organizacionais-com-acesso) do plano. :smile:
+    O usuário só poderá ver os planos para vínculo caso o nível organizacional dele esteja no campo [Níveis com acesso](organizational_levels.md/#niveis-organizacionais-com-acesso) do plano. :smile:
 
 
 ---
