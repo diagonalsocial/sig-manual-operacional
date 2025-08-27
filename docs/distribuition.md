@@ -50,6 +50,7 @@ Clique no botão "Gerar" para que os itens sejam gerados com base na ordem de se
 ![Image title](images/distribuition5.png){ width="900" }
 </figure>
 
+_Neste passo, certifique-se que você [adicionou](eap.md/#adicionar-produtos) os produtos nas atividades do plano_   
 Suas tarefas serão geradas, clique em cima de uma tarefa para abrí-la:
 
 <figure markdown="span">

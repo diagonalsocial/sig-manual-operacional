@@ -45,6 +45,8 @@ No menu `planejamento`, acesse `ordem de serviço` e siga os passos:
 
 ### Selecionando produtos
 
+_Neste passo, certifique-se que você [adicionou](eap.md/#adicionar-produtos) os produtos as atividades no planejamento_
+
 Para medir os produtos clique em "Adicionar" e siga os passos:
 
 1. Selecione o tipo de território entre Área ou Empreendimento e selecione o empreendimento previamente cadastrado.

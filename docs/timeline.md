@@ -79,3 +79,5 @@ O item deve ficar desta forma:
 <figure markdown="span">
 ![Image title](images/plans6.png){ width="900" }
 </figure>
+
+---

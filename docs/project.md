@@ -79,3 +79,116 @@ O item deve ficar desta forma:
 <figure markdown="span">
 ![Image title](images/plans6.png){ width="900" }
 </figure>
+
+## Vincular tarefa no Projeto 
+
+É possível que ao fazer o registro de uma tarefa não planejada, o usuário faça o vínculo dessa tarefa direto com o planejamento, para isso, deve-se habilitar o switch "Permitir vinculação com trabalhos" na `Distribuição`, `EAP`, ou `Projetos`: 
+
+<figure markdown="span">
+![Image title](images/link.png){ width="900" }
+</figure>
+
+Agora, no menu `Configurações` - `Tipo de trabalho`, habilite a sessão "Item superior vinculado" no tipo de trabalho desejado:
+
+<figure markdown="span">
+![Image title](images/type4.png){ width="900" }
+</figure>
+
+Pronto! Agora ao acessar uma tarefa com o tipo de trabalho que acabou de configurar, a seção de vínculo com o plano deve estar ativa:
+
+### Passos
+
+1. Clique em adicionar
+
+2. Selecione o plano que deseja realizar o vínculo
+
+3. Selecione a atividade em que a tarefa será vinculada e clique em "confirmar".
+
+=== "Passo 1"
+
+    <figure markdown="span">
+    ![Image title](images/link2.png){ width="900" }
+    </figure>
+
+=== "Passo 2"
+
+    <figure markdown="span">
+    ![Image title](images/link3.png){ width="900" }
+    </figure>
+
+=== "Passo 3"
+
+    <figure markdown="span">
+    ![Image title](images/link4.png){ width="900" }
+    </figure>
+
+
+
+ O vinculo será feito.
+
+!!! Warning "Atenção"
+    O usuário só poderá ver os planos para vínculo caso o nível organizacional dele esteja no campo [Níveis com acesso](organizational_levels.md/#níveis-organizacionais-com-acesso) do plano. :smile:
+
+
+---
+
+## Vincular Projeto no Cronograma
+
+No menu planejamento, é possível fazer vinculo entre planos seguindo a hierarquia de planejamento:  
+
+``` markrdown
+Os vínculos ocorrem dessa forma:
+EAP → Projetos → Cronograma
+Ou seja, é possível vincular a EAP com o Projeto e o Projeto com o cronograma.
+``` 
+
+Na aba `Planejador` do Projeto, clique no botão :link:`vincular` 
+
+<figure markdown="span">
+![Image title](images/link5.png){ width="900" }
+</figure>
+
+Selecione o Projeto no campo:
+
+<figure markdown="span">
+![Image title](images/link6.png){ width="900" }
+</figure>
+
+Os itens do projeto selecionado serão abertos, dando a opção do usuário vincular ou copiar:
+
+<figure markdown="span">
+![Image title](images/link7.png){ width="900" }
+</figure>
+
+**Vincular**: Este item será vinculado, ou seja, o que acontecer com este item no Projeto também afetará no Cronograma.  
+**Copiar**: Será criada apeans uma cópia do item no projeto, sem interferir no item do Cronograma.
+
+## Adicionar Produtos
+
+Ao criar os itens do plano, é possível adicionar os Produtos do contrato selecionado na aba de `informações`. Este vínculo é realizado quando se cria um item de nível `atividade`:
+
+1. Clique em "Adicionar"  
+2. Selecione o nível como "Atividade" 
+3. Selecione o produto no campo.
+
+
+=== "Passo 1"
+
+    <figure markdown="span">
+     ![Image title](images/plans3.png){ width="900" }
+    </figure>
+
+=== "Passo 2"
+
+    <figure markdown="span">
+     ![Image title](images/product2.png){ width="900" }
+    </figure>
+
+=== "Passo 3"
+    
+    <figure markdown="span">
+     ![Image title](images/product3.png){ width="900" }
+    </figure>
+
+!!! Warning "Atenção"
+    Só é possível adicioanr um produto por atividade. :wink: 
