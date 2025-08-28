@@ -3,6 +3,7 @@ site_url: https://mydomain.org/mysite
 
 theme:
   name: material
+
   palette:
       - scheme: default
         toggle:
@@ -12,8 +13,8 @@ theme:
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
-  
-  logo: images/favicon.png
+
+  logo: images/favicon1.png
   font: 
     text: Roboto
   features:
@@ -27,6 +28,8 @@ theme:
     - navigation.indexes
     - content.tabs.link
     - content.tooltips
+
+
 plugins:
   - search
 
