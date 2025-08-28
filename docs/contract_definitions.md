@@ -116,3 +116,18 @@ Para configurar a medição por **Horas técnicas**, siga os passos:
 
 ## Unidades de medição
 
+Ao selecionar a medição por "Produtos", você pode definir as unidades de medição daquele produto:
+
+<figure markdown="span">
+ ![Image title](images/unit.png){ width="900" }
+</figure>
+
+Essas unidades irão refletir nos indicadores da [`Distribuição`](distribuition.md/#indicadores)
+
+Seguem as opções e suas descrições de uso:
+
+**Contar produtos nas tarefas**:  
+
+**Somar parâmetros de negócio nos campos personalizados**:
+
+**Contar parâmetros de negócio no tipo de trabalho**: akkaskskops 
