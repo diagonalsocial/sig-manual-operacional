@@ -2,7 +2,7 @@
 
 Menu de criação e consulta dos produtos que serão utilizados nas definições do contrato. 
 
-# Como criar um produto
+## Como criar um produto
 
 Clique no menu `Configurações`, acessse `Produtos do contrato` e siga os passos:
 
@@ -23,5 +23,12 @@ Clique no menu `Configurações`, acessse `Produtos do contrato` e siga os passo
      ![Image title](images/product1.png){ width="900" }
     </figure>
     
+---
 
-_Adicione os produto
+## Passos de configuração
+
+Para medir o produto, deve-se prestar atenção nas configurações que devem ser realizadas. Siga as etapas abaixo para configurá-lo corretamente:
+
+1. [Adicionar produtos nas definições do contrato :octicons-arrow-left-24:](contract_definitions.md/#por-produto)  
+2. [Selecionar o contrato em um plano (passo 1):octicons-arrow-left-24:](project.md/#como-criar)
+3. [Adicionar os produtos nas atividades e tarefas :octicons-arrow-left-24:](project.md/#adicionar-produtos)

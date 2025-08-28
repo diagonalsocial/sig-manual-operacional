@@ -191,5 +191,5 @@ Ao criar os itens do plano, é possível adicionar os Produtos do contrato selec
     </figure>
 
 !!! Warning "Atenção"
-    Só é possível adicioanr um produto por atividade. :wink: 
+    Só é possível adicionar um produto por atividade. :wink: 
 

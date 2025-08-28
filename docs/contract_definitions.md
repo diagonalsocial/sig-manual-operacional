@@ -39,6 +39,8 @@ Clique no menu `Configurações`, acesse `Definições do contrato` e siga os pa
  ![Image title](images/definitions3.png){ width="900" }
 </figure>
 
+### Por produto
+
 Para configurar a medição por **produtos**, siga os passos:
 
 1. Clique em "Adicionar produto".
@@ -77,6 +79,9 @@ Para configurar a medição por **produtos**, siga os passos:
 
  * Clique em "Salvar e fechar"
  * Repita os passos para todos os produtos que pertecem ao contrato.
+
+
+### Por horas técnicas
 
 Para configurar a medição por **Horas técnicas**, siga os passos:
 
@@ -122,12 +127,12 @@ Ao selecionar a medição por "Produtos", você pode definir as unidades de medi
  ![Image title](images/unit.png){ width="900" }
 </figure>
 
-Essas unidades irão refletir nos indicadores da [`Distribuição`](distribuition.md/#indicadores)
+Essas unidades irão refletir nos indicadores da [`Distribuição`](distribuition.md/#indicadores) e [`Ordem de serviço`](service_orders.md/#indicadores-do-produto).
 
 Seguem as opções e suas descrições de uso:
 
-**Contar produtos nas tarefas**:  
+**Contar produtos nas tarefas**: Conta as tarefas com o produto vinculado.
 
-**Somar parâmetros de negócio nos campos personalizados**:
+**Somar parâmetros de negócio nos campos personalizados**: Realiza a soma dos valores indicados nos campos personalizados com um parâmetro de negócio.
 
-**Contar parâmetros de negócio no tipo de trabalho**: akkaskskops 
+**Contar parâmetros de negócio no tipo de trabalho**:  Conta o parâmetro de negócio no tipo de trabalho.
