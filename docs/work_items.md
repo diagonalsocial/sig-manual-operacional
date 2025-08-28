@@ -172,6 +172,10 @@ Veja o exemplo:
 * Não se esqueça de clicar em "Salvar" ou "Salvar e voltar" no rodapé da página para registrar os dados da tarefa.
 
 
+## Recorrência
+
+## Relatório geral de trabalho
+
 
 
 

@@ -23,4 +23,6 @@ Como vincular tarefa a EAP?
     Este manual é direcionado a funcionalidades da plataforma, contém informações de como configurá-lo para seu contrato, guias gerais de uso dos menus e dicas de boas práticas.
 
 !!! Tip "Dica"
-    Procure por palavras-chave na barra de pesquisa ao topo.
+    *  :material-magnify: Procure por palavras-chave na barra de pesquisa ao topo.
+    *  :material-brightness-7: Mude para os temas claro ou escuro de acordo com sua preferência.
+    
