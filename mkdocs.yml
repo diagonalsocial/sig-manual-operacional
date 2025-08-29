@@ -56,6 +56,12 @@ markdown_extensions:
   - toc:
       title: Tópicos
 
+extra:
+  analytics:
+    provider: google
+    property: G-503093679
+
+
 nav:
   - Início: index.md
   - Monitoramento: dashboards.md
