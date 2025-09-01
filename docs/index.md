@@ -15,6 +15,11 @@ Como vincular tarefa a EAP?
 [:octicons-arrow-right-24: Ver passo a passo](eap.md/#passos) 
 { .card }
 
+Como preencher os campos nativos das tarefas?  
+[:octicons-arrow-right-24: Ver passo a passo](work_item_types.md/#campos-nativos) 
+{ .card }
+
+
 </div>
 
 
