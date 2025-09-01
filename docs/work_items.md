@@ -174,6 +174,35 @@ Veja o exemplo:
 
 ## Recorrência
 
+Quando uma tarefa pode se repetir diversas vezes, o usuário pode programar neste campo para que esta tarefa esteja sempre presente em sua lista de trabalho, desta forma, toda vez que ele aplicar o status `Concluído`, uma nova tarefa com os dados copiados dessa tarefa será criada no menu `Trabalho`, de acordo com a recorrência aplicada.
+
+??? question "**Como aplicar a recorrência?**"
+    
+    1. Clique no switch de "aplicar recorrência".
+
+    2. Selecione a periodicidade da recorrência, por exemplo "a cada 2 dias".
+
+    3. Se a periodicidade for por semana, você poderá escolher o dia em que ela ocorre, selecione quando ela acaba.
+
+
+    === "Passo 1"
+
+        <figure markdown="span">
+        ![Image title](images/repeat.png){ width="900" }
+        </figure>
+
+    === "Passo 2"
+
+        <figure markdown="span">
+        ![Image title](images/repeat1.png){ width="900" }
+        </figure>
+
+    === "Passo 3"
+
+        <figure markdown="span">
+        ![Image title](images/repeat2.png){ width="900" }
+        </figure>
+
 ## Relatório geral de trabalho
 
 
