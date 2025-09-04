@@ -19,6 +19,10 @@ Como preencher os campos nativos das tarefas?
 [:octicons-arrow-right-24: Ver passo a passo](work_item_types.md/#campos-nativos) 
 { .card }
 
+Como extrair um relatório da tarefa?  
+[:octicons-arrow-right-24: Ver passo a passo](reports.md/#da-tarefa) 
+{ .card }
+
 
 </div>
 

@@ -205,7 +205,25 @@ Quando uma tarefa pode se repetir diversas vezes, o usuário pode programar nest
 
 ## Relatório geral de trabalho
 
+O relatório geral de trabalho é o compilado das tarefas e suas informações filtradas no menu `Trabalho`. As informações são extraídas para um arquivo `.xlsx`, enquanto os anexos são extraídos para um `.zip`.
+
+!!! warning "Importante:"
+    O relatório é gerado a partir das informações exibidas no menu trabalho, ou seja, **se um filtro estiver aplicado, apenas as informações das tarefas filtradas serão geradas**.
+
+Para gerar um relatório, clique na opção "Relatórios" no menu `Trabalho`: 
+
+<figure markdown="span">
+![Image title](images/general.png){ width="300" }
+</figure>
 
 
+Ao selecionar "Relatório geral de trabalho", você será direcionado para a guia de extração, clique na opção que deseja:
 
+<figure markdown="span">
+![Image title](images/general1.png){ width="900" }
+</figure>
 
+!!! warning "Atenção:"
+    É preciso que a extração de relatórios esteja habilitada no [`Perfil de Acesso`](access_levels.md) do usuário.
+
+---
