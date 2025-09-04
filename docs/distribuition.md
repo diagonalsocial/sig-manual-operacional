@@ -135,3 +135,15 @@ No menu de distribuição, há uma seção que apresenta os status dos produtos 
 <figure markdown="span">
 ![Image title](images/edit3.png){ width="900" }
 </figure>
+
+## Atualizar a distribuição
+
+Depois que os itens de uma distribuição são gerados, o botão "Atualizar" estará disponível. Ao clicar, o usuário pode atualizar os seguintes itens:
+
+<figure markdown="span">
+![Image title](images/update.png){ width="600" }
+</figure>
+
+Ative o _switch_ do que deve ser atualizado e clique em "Atualizar". 
+
+As atualizações são baseadas nos planos de origem da distribuição. Ou seja, se algo for editado na `EAP` ou no `Projeto`, ao clicar em "Atualizar", as informações editadas no plano refletirão na distribuição.  
