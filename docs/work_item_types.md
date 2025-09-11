@@ -83,6 +83,11 @@ Este campo possibilita o usuário a vincular uma tarefa [não planejada]("que n�
         ![Image title](images/link4.png){ width="900" }
         </figure>
 
+    _Você pode usar a barra de busca para procurar a atividade:_
+
+    <figure markdown="span">
+    ![Image title](images/link8.png){ width="600" }
+    </figure>   
 
 
 ### Usuários ou Equipes

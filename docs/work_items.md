@@ -50,17 +50,55 @@ O botão `filtrar` está disponível para que o usuário filtre suas tarefas da 
 
 Basta selecionar os valores de acordo:
 
-[`Quando`]("valor a ser filtrado"), [`for`]("operador lógico"), e selecionar os valores existentes.
+[`Campo`]("valor a ser filtrado"), [`Operador`]("operador lógico"), e selecionar os valores existentes.
 
 Por exemplo:
 
-Quando "status do trabalho" for "igual" a "concluído"
+<figure markdown="span">
+ ![Image title](images/filter2.png){ width="600" }
+</figure>
 
 Clique em `aplicar filtro`.  
-Este exemplo trará todas as tarefas com status concluído.  
+
 
 <figure markdown="span">
  ![Image title](images/filterapply.png){ width="900" }
+</figure>
+
+Este exemplo trará todas as tarefas com status concluído.  
+
+### Filtros Pré-definidos
+
+Salve os filtros utilizados para que não seja necessário configurá-los outra vez:
+
+<figure markdown="span">
+ ![Image title](images/filter1.png){ width="600" }
+</figure>
+
+Ao clicar em "Salvar filtro", dê um nome ao filtro aplicado e clique em "Salvar":
+
+<figure markdown="span">
+ ![Image title](images/filter3.png){ width="300" }
+</figure>
+
+Agora, o filtro aparecerá no campo de seleção "Meus Filtros": 
+
+<figure markdown="span">
+ ![Image title](images/filter4.png){ width="600" }
+</figure>
+
+### Filtros compartilhados
+
+Clique no ícone para compartilhar entre os usuários da organização o seu filtro:
+
+<figure markdown="span">
+ ![Image title](images/filter5.png){ width="300" }
+</figure>
+
+Ao salvar, o seu filtro aparecerá no campo de seleção "Filtros compartilhados" para os demais usuários:
+
+<figure markdown="span">
+ ![Image title](images/filter6.png){ width="300" }
 </figure>
 
 ---
