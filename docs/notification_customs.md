@@ -42,7 +42,7 @@ No menu `Configurações`, acesse `Notificações customizadas` e siga os passos
     ![Image title](images/custom_not4.png){ width="900" }
     </figure>
 
-5. Selecione o [`template`](notification_templates.md/#como-configurar-os-modelos-de-notificação).
+5. Selecione o [`template`](notification_templates.md/#como-configurar-os-modelos-de-notificacao).
 
     <figure markdown="span">
     ![Image title](images/custom_not5.png){ width="900" }
