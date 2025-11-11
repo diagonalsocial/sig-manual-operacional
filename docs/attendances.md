@@ -434,9 +434,71 @@ O usuário pode escolher também a visualização em lista ou calendário:
 
 ---
 
+## Anexos
+
+É possível anexar arquivos nos atendimentos independente do tipo de atendimento selecionado.  
+
+
+Clique em "Anexar" na seção de Anexos do atendimento:
+
+<figure markdown="span">
+![Image title](images/anexo4.png){ width="600" }
+</figure>
+
+Selecione o arquivo:
+
+<figure markdown="span">
+![Image title](images/anexo5.png){ width="900" }
+</figure>
+
+Selecione o tipo de conteúdo que está anexando(obrigatório):
+
+<figure markdown="span">
+![Image title](images/anexo6.png){ width="900" }
+</figure>
+
+Caso estes anexos devam ser extraídos na geração da [medição](measurement.md), ative o switch "Usar como evidência".
+
+Clique em "Salvar".
+
+## Encaminhamentos
+
+Os encaminhamentos são atendimentos gerados por consequência de outro atendimento. Para criá-los, deve-se ir até a seção de "Encaminhamentos" do atendimento. _Essa seção só aparecerá uma vez que o atendimento for salvo_. 
+
+1. Clique em "Adicionar":
+
+    <figure markdown="span">
+    ![Image title](images/forward2.png){ width="900" }
+    </figure>
+
+2. Selecione o tipo e o motivo de atendimento que será encaminhado:
+
+    <figure markdown="span">
+    ![Image title](images/forward3.png){ width="900" }
+    </figure>
+
+3. Para os casos de P5 e P6, selecion a origem da demanda e escreva uma justificativa para o encaminhamento:
+
+    <figure markdown="span">
+    ![Image title](images/forward4.png){ width="900" }
+    </figure>
+
+4. Após preencher, clicar em "salvar e fechar" e salvar o atendimento. 
 
 
 
+O atendimento encaminhamento irá para a "caixa de entrada" do menu atendimento, para que um usuário assuma o atendimento:
 
+<figure markdown="span">
+![Image title](images/forward5.png){ width="900" }
+</figure>
+
+Para assumir o encaminhamento, vá para a "caixa de entrada", acesse o atendimento e clique em "Prosseguir atendimento":
+
+<figure markdown="span">
+![Image title](images/forward6.png){ width="900" }
+</figure>
+
+--- 
 
 
