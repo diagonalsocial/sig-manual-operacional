@@ -184,7 +184,7 @@ O usuário pode escolher também a visualização em lista ou calendário:
     ![Image title](images/p456.png){ width="900" }
     </figure>
 
-2. Selecione a ordem de serviço qual o atendimento pertence.
+2. Selecione a regional qual o atendimento pertence.
 
     <figure markdown="span">
     ![Image title](images/p456_1.png){ width="900" }
@@ -264,7 +264,7 @@ O usuário pode escolher também a visualização em lista ou calendário:
     ![Image title](images/p456.png){ width="900" }
     </figure>
 
-2. Selecione a ordem de serviço qual o atendimento pertence.
+2. Selecione a regional qual o atendimento pertence.
 
     <figure markdown="span">
     ![Image title](images/p456_1.png){ width="900" }
@@ -356,7 +356,7 @@ O usuário pode escolher também a visualização em lista ou calendário:
     ![Image title](images/p456.png){ width="900" }
     </figure>
 
-2. Selecione a ordem de serviço qual o atendimento pertence.
+2. Selecione a regional qual o atendimento pertence.
 
     <figure markdown="span">
     ![Image title](images/p456_1.png){ width="900" }
